@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate Developer and Self Learner</h3>
 
-![logo](https://github.com/lanisterd/lanisterd/blob/8b0956ab5bf67f13e809b5f9a83ed07b2cff6283/Banner.png)
+![logo](https://github.com/lanisterd/lanisterd/blob/bc026c5d9d4a0ab7978f6f33fbeba7a5c42c9958/Banner.png)
 
 </br>
 
