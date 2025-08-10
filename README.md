@@ -6,15 +6,20 @@
   <img src="https://user-images.githubusercontent.com/74038190/213911125-281ca2c5-1b68-4b8c-9935-4b3e3a82a5a3.gif" width="500" alt="Cybersecurity Animation">
 </div>
 
----
+<div align="center">
+  <pre>
+    <span style="color:#00FF41;">
+╔══════════════════════════════════════╗
+║                                      ║
+║  🔐 Authorized Personnel Only 🔐    ║
+║                                      ║
+╚══════════════════════════════════════╝
+    </span>
+  </pre>
+</div>
 
-## 🛡️ About Me
 
 > *I love cyber space danx1338*
-
----
-
-## ✨ Security Arsenal
 
 ### Operating Systems
 <div align="center">
@@ -42,7 +47,7 @@
 
 ---
 
-## 📊 Commitment to Security (2024–2025)
+## 📊 Commitment to Security (since 2023)
 
 > **Simulated full green commit grid below – representing daily dedication to cybersecurity and Linux.**
 
@@ -75,14 +80,6 @@
 
 ---
 
-## 💡 Security Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process&author=Bruce%20Schneier" alt="Security Quote" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lanisterd&label=Profile%20views&color=00FF41&style=flat" alt="Profile Views" />
 </div>
@@ -93,18 +90,4 @@
 
 ---
 
-<div align="center">
-  <pre>
-    <span style="color:#00FF41;">
-╔══════════════════════════════════════╗
-║           SECURITY ZONE              ║
-║                                      ║
-║  🔐 Authorized Personnel Only 🔐     ║
-║                                      ║
-║  [+] Penetration Testing in Progress ║
-║  [+] Vulnerability Assessment Active ║
-║  [+] Security Monitoring Enabled     ║
-╚══════════════════════════════════════╝
-    </span>
-  </pre>
-</div>
+
